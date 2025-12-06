@@ -1,0 +1,14 @@
+Marketplace Image Downloader – Privacy Policy
+
+This browser extension does not collect, store, transmit, or share ANY personal data.
+
+All processing happens entirely on the user’s device:
+- Images are accessed only when the user explicitly clicks the download button.
+- No data is ever sent to external servers.
+- No analytics, no tracking, no logging.
+- No cookies or storage are used.
+- No third parties receive any information.
+
+The extension performs a single local function: downloading full-resolution gallery images from Marketplace listings when the user requests it.
+
+If you have questions or concerns, contact support through the Chrome Web Store listing.
